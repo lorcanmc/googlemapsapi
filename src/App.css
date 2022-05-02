@@ -1,0 +1,10 @@
+.App {
+}
+
+h1 {
+  position: absolute;
+  z-index: 10;
+  /* top: 1rem; */
+  left: 2rem;
+  font-size: 3rem;
+}
