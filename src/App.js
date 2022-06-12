@@ -2,7 +2,7 @@ import {
   GoogleMap,
   useLoadScript,
   Marker,
-  InfoWindow,
+  // InfoWindow,
 } from "@react-google-maps/api";
 import { useCallback, useState } from "react";
 import "./App.css";
